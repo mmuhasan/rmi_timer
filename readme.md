@@ -1,3 +1,4 @@
+# Command Line
 javac *.java
 rmic TimeServerImpl
 rmiregistry &
